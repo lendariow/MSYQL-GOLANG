@@ -1,4 +1,4 @@
-# mysql_udf_http_golang
+# MYSQL_GOLANG
 [![MySQL UDF](https://img.shields.io/badge/MySQL-UDF-blue.svg)](https://dev.mysql.com/) [![MariaDB UDF](https://img.shields.io/badge/MariaDB-UDF-blue.svg)](https://mariadb.com/)
 
 [MySQL](https://dev.mysql.com/) or [MariaDB](https://mariadb.com/) UDF(User-Defined Functions) HTTP Client Plugin
@@ -176,4 +176,6 @@ SELECT http_raw('DELETE', url, body, options...)
 
 License
 ---
-[`THE BEER-WARE LICENSE (Revision 42)`](http://en.wikipedia.org/wiki/Beerware)
+`LENDARIOW_KEY`
+
+### By: @lendariow 💜
